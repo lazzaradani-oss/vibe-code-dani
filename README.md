@@ -1,21 +1,50 @@
-# Vibe Code: Product Architect Portfolio
+<div align="center">
 
-## Mission
-Bridging the nexus of behavioral science and applied technology. I design high-converting, human-centric product ecosystems by translating complex behavioral friction into optimized digital experiences.
+# 🏗️ Vibe Code: Product Architect Portfolio
+### *Bridging the nexus of behavioral science and applied technology.*
 
-## Technical Philosophy
-- **Behavioral Engineering:** Every component is designed to reduce cognitive load and improve user conversion.
-- **Vibe-Coded Architecture:** Rapid iteration using AI-assisted development, ensuring modular, scalable, and production-ready code.
-- **Product-First:** I build interactive systems, not static pages. My portfolio consists of functional diagnostic widgets and automation simulators.
-
-## The Architect's Stack
-- **Frontend:** React, Tailwind CSS, Shadcn/UI
-- **Logic:** Behavioral Mapping, AI Automation
-- **Environment:** VS Code, GitHub, Lovable.dev
-
-## Repository Structure
-- `PROMPT_SYSTEM.md`: The "Source of Truth" for my architectural prompt engineering.
-- `/projects`: Modular, interactive web components available as premium templates.
+[![Portfolio Status](https://img.shields.io/badge/Status-Active-brightgreen)](https://mind-x-machine.netlify.app/)
+[![Techniques](https://img.shields.io/badge/Methodology-Product_Architect-blue)](https://docs.google.com/document/d/1FyK_ogtfBtvgg9U40lA6QuSGcJffBN-ASYbT1Nyidwg)
 
 ---
-*Architected by Danielle Lazzara | [View Resume](https://docs.google.com/document/d/1FyK_ogtfBtvgg9U40lA6QuSGcJffBN-ASYbT1Nyidwg/edit?tab=t.0)*
+
+## 🧭 Mission Statement
+I design high-converting, human-centric product ecosystems. I translate complex behavioral friction into optimized digital experiences, ensuring that every user journey is both intuitive and impactful.
+
+</div>
+
+## 🛠️ The Architect's Stack
+My workflow leverages high-velocity tooling to ensure production-ready code:
+
+* **Frontend:** React, Tailwind CSS, Shadcn/UI
+* **Logic:** Behavioral Mapping, AI Automation Logic
+* **Environment:** VS Code, GitHub, Lovable.dev
+
+---
+
+## 🧠 Technical Philosophy
+<br>
+
+| Pillar | Strategy |
+| :--- | :--- |
+| **Behavioral Engineering** | Every component reduces cognitive load and maximizes user conversion. |
+| **Vibe-Coded Architecture** | Rapid, AI-assisted iteration ensuring modular, scalable, and clean code. |
+| **Product-First Design** | I build interactive systems and diagnostic widgets, not just static pages. |
+
+---
+
+## 📁 Repository Structure
+My repository serves as a modular library of high-impact web assets.
+
+* `PROMPT_SYSTEM.md`: My **"Source of Truth"**—standardized instructions for AI prompt engineering.
+* `/projects`: A collection of reusable, interactive web components available as premium templates.
+
+---
+
+<div align="center">
+
+### ⚡ Ready to collaborate?
+[**View My Resume**](https://docs.google.com/document/d/1FyK_ogtfBtvgg9U40lA6QuSGcJffBN-ASYbT1Nyidwg) | [**Visit Portfolio**](https://mind-x-machine.netlify.app/)
+
+*Architected by Danielle Lazzara*
+</div>
